@@ -1,0 +1,25 @@
+# Projeto: Site para Salão de Beleza
+
+Este projeto consiste em um site moderno, elegante e responsivo desenvolvido para um salão de beleza fictício. O design foi pensado para transmitir profissionalismo, cuidado e uma experiência acolhedora, com foco em valorizar a autoestima dos clientes.
+
+## Estrutura e Funcionalidades
+
+- Página única (one-page) com navegação por âncoras internas.
+- Seções essenciais: Sobre, Serviços, Agendamento direto via WhatsApp, Contato com endereço e redes sociais.
+- Layout clean, com tipografia refinada e paleta de cores suaves, visando uma estética elegante e profissional.
+- Navegação suave e interativa para melhorar a experiência do usuário.
+- Imagens arredondadas e elementos visuais que dão um toque de sofisticação.
+
+## Tecnologias Utilizadas
+
+- **HTML5** para a estrutura semântica e acessibilidade.
+- **CSS3** para estilos modernos, responsividade e efeitos visuais.
+- **JavaScript** para melhorar a interatividade, como navegação suave.
+
+## Adaptação e Uso
+
+Embora tenha sido desenvolvido com foco em salões de beleza, este site pode ser facilmente adaptado para outros tipos de negócios que queiram uma presença online elegante e funcional, como clínicas de estética, consultórios, pequenas empresas e serviços personalizados.
+
+---
+
+Fique à vontade para explorar, adaptar e usar este projeto como base para desenvolver seu próprio site profissional.
